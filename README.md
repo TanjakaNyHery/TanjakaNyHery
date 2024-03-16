@@ -40,10 +40,10 @@ I'm a passionate developer specializing in the PHP language. Exploring the endle
 
 - **Open to collaboration**: If you have collaboration ideas or questions about my projects, don't hesitate to send me a message or open an issue on the relevant repository.
 <p align='center'>
-<a href='https://www.facebook.com/tanjaka.nyhery' target="_blank"><img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30' /></a>
-<a href='#' target="_blank"><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkdin' height='30' /></a>
-<a href='mailto:tanjaka.nyhery@gmail.com' target="_blank"><img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='gmail' height='30' /></a>
-<a href='#' target="_blank"><img src='https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg' alt='whatsapp' height='30' /></a>
+<a href='https://www.facebook.com/tanjaka.nyhery'><img src='https://www.vectorlogo.zone/logos/facebook/facebook-official.svg' alt='facebook' height='30' /></a>
+<a href='#'><img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' alt='linkdin' height='30' /></a>
+<a href='mailto:tanjaka.nyhery@gmail.com'><img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' alt='gmail' height='30' /></a>
+<a href='#'><img src='https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg' alt='whatsapp' height='30' /></a>
 </p>
 
 
