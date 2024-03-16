@@ -1,13 +1,14 @@
 # Welcome to my Github profile <img src="https://github.com/fluidicon.png" width="30" height="30" />! 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&weight=500&size=40&pause=1000&color=3333C5&random=false&width=720&height=100&lines=Hello+World!)]
+<img align='center' src="https://readme-typing-svg.herokuapp.com?color=204A87&lines=Hello+World!" width="100%">
+
 ## Who am I?
 <p>
 I'm a passionate developer specializing in the PHP language. Exploring the endless possibilities of code is where I find my joy. From unraveling intricate algorithms to crafting seamless user experiences, I'm driven by the thrill of discovery in the world of technology.
 </p>
 
 ## My skills and toolbox
-<table align=left>
+<table align=center>
 <tr>
 <th>Description</th>
 <th>Tools</th>
@@ -33,7 +34,7 @@ I'm a passionate developer specializing in the PHP language. Exploring the endle
 <tr>
 </tr>
 </table>
-<p align='center'>----------------------------------</p>
+
 
 ## How to contact me?
 
