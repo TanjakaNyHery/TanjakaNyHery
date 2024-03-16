@@ -33,7 +33,7 @@ I'm a passionate developer specializing in the PHP language. Exploring the endle
 <tr>
 </tr>
 </table>
-<p></p>
+<p align='center'>----------------------------------</p>
 
 ## How to contact me?
 
